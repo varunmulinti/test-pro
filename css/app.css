@@ -47,7 +47,14 @@ color: #7f8c8d;
   float: left;
   margin-left: 90px
 }
-.lineicon{
-  height: 50px;
-  width: 50px;
+.linepic{
+    margin-left: -28px;
+    margin-top: 36px;
+    border-radius: 50%;
+    background-color: #3498db;
+    color: beige;
+}
+.info{
+  margin-left: -25px;
+  background-color: #ecf0f1
 }

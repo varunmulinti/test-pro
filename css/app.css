@@ -2,17 +2,16 @@
   height: 60px;
   width: 113px;
 }
-.top{
+#top{
   background: #48a2df;
   width: 8.25%;
   height: 50px;
 
 }
-.topright{
+#topright{
   background:#ecf0f1;
   height: 50px;
   width: 91.75%;
-  float: right;
 }
 .matter{
   margin-top: 15px;
@@ -31,4 +30,24 @@ color: #7f8c8d;
 }
 #profile{
   border-radius: 50%;
+}
+#box{
+  margin-top:15px;
+}
+#main{
+  height:70vh;
+  border:1px solid #bdc3c7;
+  margin-top: 10px
+}
+
+.vertical-line{
+  width: 3px; /* Line width */
+  background-color: #ecf0f1; /* Line color */
+  height: 100%;
+  float: left;
+  margin-left: 90px
+}
+.lineicon{
+  height: 50px;
+  width: 50px;
 }
